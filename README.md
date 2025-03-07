@@ -17,20 +17,20 @@ This project is a Python-based simulation of the classic UNO card game, where mu
     ```bash
     git clone https://github.com/Kinglord1090/uno-simulator.git
     ```
-2. Navigate to the project folder:
-    ```bash
-    cd uno-simulator
-    ```
 
 ## Usage
 
-1. Run the script:
+1. Navigate to the project folder:
+    ```bash
+    cd uno-simulator
+    ```
+2. Run the script:
     ```bash
     python uno-sim.py
     ```
-2. Enter the number of cards to be dealt, the number of bots (maximum 10), and the delay between each move.
-3. Watch the bots play against each other until one bot finishes all cards.
-4. The program displays the winner's list and the total game duration.
+3. Enter the number of cards to be dealt, the number of bots (maximum 10), and the delay between each move.
+4. Watch the bots play against each other until one bot finishes all cards.
+5. The program displays the winner's list and the total game duration.
 
 ## License
 
