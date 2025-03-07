@@ -26,7 +26,7 @@ This project is a Python-based simulation of the classic UNO card game, where mu
 
 1. Run the script:
     ```bash
-    python uno-simu.py
+    python uno-sim.py
     ```
 2. Enter the number of cards to be dealt, the number of bots (maximum 10), and the delay between each move.
 3. Watch the bots play against each other until one bot finishes all cards.
